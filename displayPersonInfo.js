@@ -1,5 +1,5 @@
 let personne = {
-    nom : "Mariama",
+    nom : "Mariam",
     Age : 30,
 };
 
